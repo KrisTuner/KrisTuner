@@ -3,7 +3,6 @@
 📍 Новосибирск, Россия  
 📧 Email: lisendor@mail.ru  
 📱 Telegram: @Lisendor  
-💻 GitHub: https://github.com/KrisTuner  
 📌 Статус: открыт к предложениям (полная занятость, офис / удалённо / гибрид)
 
 ---
